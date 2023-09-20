@@ -1,13 +1,17 @@
 # Predict_wine_quality
 
-## Data/n
+## Data  
+
 The dataset is from kaggle
 
-# Task/n 
+# Task  
+
 Classification on 3 different quality of wine(bad, medium, good)
 
-# Models/n
+# Models  
+
 We used random forest, SVM and XGBoost 
 
-# Result/n
+# Result
+
 Based on the confusion matrix and ROC curve, random forest is the best model 
